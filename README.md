@@ -14,7 +14,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm **Nivakaran**, a final-year undergraduate at **SLIIT**, pursuing a B.Sc (Hons) in Information Technology with a specialization in **Data Science**.
+I'm **Nivakaran**, a third-year undergraduate at **SLIIT**, pursuing a B.Sc (Hons) in Information Technology with a specialization in **Data Science**.
 
 🚀 I love exploring the intersection of **AI, data, and scalable software**. Whether it’s building a smart assistant, deploying a custom ML model, or automating real-world problems, I’m always up for the challenge.
 
@@ -92,7 +92,7 @@ Let’s connect and build something amazing together!
 
 ## 📬 Contact Me
 
-- 📧 Email: [nivakaran.email@gmail.com](mailto:nivakaran.email@gmail.com)
+- 📧 Email: [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaranS)
 - 🧑‍💻 GitHub: [github.com/NivakaranS](https://github.com/NivakaranS)
 - 🌐 Portfolio: *(Coming soon at)* [nivakaran.dev](https://nivakaran.dev)
