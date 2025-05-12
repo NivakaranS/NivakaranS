@@ -2,8 +2,12 @@
 <h3 align="center">🚀 Data Science Enthusiast | 💡 AI Explorer | 💻 Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00F779&center=true&vCenter=true&lines=Turning+Data+Into+Decisions...;Building+Smart+Apps+With+Code+and+Creativity!" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00F779&center=true&vCenter=true&lines=Turning+Data+Into+Decisions...;Building+Smart+Apps+With+Code+and+Creativity!" 
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
