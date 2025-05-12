@@ -16,7 +16,7 @@
 
 I'm **Nivakaran**, a final-year undergraduate at **SLIIT**, pursuing a B.Sc (Hons) in Information Technology with a specialization in **Data Science**.
 
-🚀 I love exploring the intersection of **AI, data, and scalable software**. Whether it’s building a smart assistant, deploying a custom ML model, or automating real-world problems — I’m always up for the challenge.
+🚀 I love exploring the intersection of **AI, data, and scalable software**. Whether it’s building a smart assistant, deploying a custom ML model, or automating real-world problems, I’m always up for the challenge.
 
 ✨ My core mantra?  
 > *“Stay hungry, stay foolish.” – Steve Jobs*  
@@ -61,7 +61,7 @@ A smart assistant that understands your queries, responds with natural language,
 ---
 
 ## 🌱 Currently Exploring
-- Generative AI apps using **LangChain** & **Vertex AI**
+- Generative AI and AI agents using **LangChain** & **HuggingFace**
 - YOLOv8 & Vision Transformers for object detection
 - DevOps tools (CI/CD) and scalable backend frameworks (FastAPI, Django)
 - Building production-ready SaaS MVPs
@@ -91,8 +91,8 @@ Let’s connect and build something amazing together!
 
 ## 📬 Contact Me
 
-- 📧 Email: [nivakaran.email@gmail.com](mailto:nivakaran.email@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaran)
+- 📧 Email: [nivakaran.email@gmail.com](mailto:nivakaran@hotmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaranS)
 - 🧑‍💻 GitHub: [github.com/NivakaranS](https://github.com/NivakaranS)
 - 🌐 Portfolio: *(Coming soon at)* [nivakaran.dev](https://nivakaran.dev)
 
