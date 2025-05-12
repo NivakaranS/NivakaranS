@@ -96,7 +96,7 @@ Let’s connect and build something amazing together!
 ## 🔥 Fun Facts
 
 - 🧠 I treat GitHub like my second brain.
-- 💬 I talk to ChatGPT like it’s a teammate.
+- 💬 I talk to ChatGPT like it’s a teammate for testing and debugging.
 - 🧪 I break things just to learn how to fix them.
 - 🎯 Motto: *Build fast. Learn faster. Help always.*
 
