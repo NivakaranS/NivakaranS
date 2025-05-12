@@ -39,7 +39,8 @@ Because the most exciting things happen *outside* your comfort zone.
 ## 💼 Featured Projects
 
 ### 🐶🐱🧑 CNN Image Classifier + Gradio UI  
-**🔗 [Check it out]([https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system])**  
+**🔗 [Check it out](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
+
 A deep learning-powered web app that classifies images into **Cats**, **Dogs**, or **Humans** using a **custom CNN** I trained from scratch. The app uses **Gradio** for a smooth user interface.
 
 > 🚀 Showcases: Model training + deployment, PyTorch + Gradio integration
