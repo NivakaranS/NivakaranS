@@ -92,7 +92,7 @@ Let’s connect and build something amazing together!
 
 ## 📬 Contact Me
 
-- 📧 Email: [nivakaran.email@gmail.com](mailto:nivakaran@hotmail.com)
+- 📧 Email: [nivakaran.email@gmail.com](mailto:nivakaran.email@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaranS)
 - 🧑‍💻 GitHub: [github.com/NivakaranS](https://github.com/NivakaranS)
 - 🌐 Portfolio: *(Coming soon at)* [nivakaran.dev](https://nivakaran.dev)
